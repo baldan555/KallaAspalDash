@@ -1,0 +1,11 @@
+duckdb
+pandas
+numpy
+plotly
+streamlit
+statsmodels
+tensorflow
+Pillow
+mysql-connector-python
+scikit-learn
+matplotlib
