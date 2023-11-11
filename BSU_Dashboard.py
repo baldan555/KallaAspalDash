@@ -30,7 +30,7 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.subplots as sp
 
-st.set_page_config(page_icon=":bar_chart:", layout="wide")
+st.set_page_config(page_icon="kalla aspal icon.png", page_title="Kalla Aspal Dash", layout="wide")
 st.sidebar.image("logo kalla aspal.png", output_format="PNG", width=300)
 page = st.sidebar.selectbox("Select a Page", ["Dashboard", "TrainPredictions", "Other Page"])
 
